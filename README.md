@@ -2,6 +2,10 @@
 
 This Software Reliability Model (SRM) provides a flexible and explainable model of software reliability in terms of inputs, outputs, drivers, activities, and forces. It is designed to help explore and explain software reliability to people of various roles who are involved in building and running software systems. The SRM is also designed to make it easy to generate and update hierarchical metrics for product health scores across multiple teams.
 
+The different inputs, outputs, drivers, activities, and forces are linked to create a graph that helps to explain the dynamics around software reliability. The graph is then visualised using the visualisation tool [Kumu](https://kumu.io/).
+
+TODO: add screenshot of Kumu graph
+
 ## Audience
 
 The SRM is aimed at these kinds of people:
@@ -35,18 +39,22 @@ There are several types of factors in the SRM - each factor type is shown differ
 
 * activity - something that happens
 * input - something enters the system
-* metric - something measurable
+* metric - something measurable - a candidate for a [Service Level Indicator (SLI)](https://sre.google/sre-book/service-level-objectives/)
 * output - something that exits the system
 * pattern - a design or template that can be applied to different situations
 * practice - something we do as professionals
 * quality attribute - an aspect or dimension of the software
 * technique - a way of doing something, usually involving tools
 
-## Tags help explore the model
+## Tags to help explore the model
 
 Tags are used to explore different dimensions of the model:
 
-* 4 Key Metrics - from Accelerate
+* 4 Key Metrics - from the book [_Accelerate_](https://itrevolution.com/book/accelerate/):
+  - lead time
+  - deployment frequency
+  - Mean Time To Restore (MTTR)
+  - Change failure rate
 * external - something outside from the system
 * internal - something inside the system
 * tool - technology that provides a capability
@@ -57,3 +65,4 @@ Tags are used to explore different dimensions of the model:
 * Use CI to test Pull Requests against Kumu import:
   - Duplicate nodes?
   - Dangling connectors?
+* Add flow efficiency / wait times?
