@@ -50,7 +50,7 @@ There are several types of factors in the SRM - each factor type is shown differ
 * output - something that exits the system
 * pattern - a design or template that can be applied to different situations
 * practice - something we do as professionals
-* quality attribute - an aspect or dimension of the software
+* quality - an high-level aspect, attribute, or dimension of the software
 * technique - a way of doing something, usually involving tools
 
 ## Tags to help explore the model
@@ -62,6 +62,7 @@ Tags are used to explore different dimensions of the model:
   - deployment frequency
   - Mean Time To Restore (MTTR)
   - Change failure rate
+* design - something that shapes the design of the system
 * external - something outside from the system
 * internal - something inside the system
 * tool - technology that provides a capability
