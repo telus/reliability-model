@@ -2,6 +2,13 @@
 
 This Software Reliability Model (SRM) provides a flexible and explainable model of software reliability in terms of inputs, outputs, drivers, activities, and forces. It is designed to help explore and explain software reliability to people of various roles who are involved in building and running software systems. The SRM is also designed to make it easy to generate and update hierarchical metrics for product health scores across multiple teams.
 
+The software reliability model is designed to be relevant to several different kinds of software systems:
+
+* internet and cloud-based software
+* desktop software
+* IoT and embedded software
+* (combinations of the above)
+
 The different inputs, outputs, drivers, activities, and forces are linked to create a graph that helps to explain the dynamics around software reliability. The graph is then visualised using the visualisation tool [Kumu](https://kumu.io/).
 
 TODO: add screenshot of Kumu graph
