@@ -1,6 +1,6 @@
 # Software Reliability Model - reliability-model
 
-This Software Reliability Model (SRM) provides a flexible and explainable model of software reliability in terms of inputs, outputs, drivers, activities, and forces. It is designed to help explore and explain software reliability to people of various roles who are involved in building and running software systems. The SRM is also designed to make it easy to generate and update hierarchical metrics for product health scores across multiple teams.
+This Software Reliability Model (SRM) provides a flexible and explainable model of software reliability in terms of inputs, outputs, drivers, activities, and forces. It is designed to help explore and explain software reliability to people of various roles who are involved in building and running software systems, and track progress in improving reliability. The SRM is also designed to make it easy to generate and update hierarchical metrics for product health scores across multiple teams.
 
 The software reliability model is designed to be relevant to several different kinds of software systems:
 
