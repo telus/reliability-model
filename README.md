@@ -36,9 +36,11 @@ The CSV files are imported into Kumu to generate explorable graphs.
 
 # Explore the latest version of the model on Kumu
 
-Visit the latest version of the [reliability-model](https://kumu.io/reliability-model/latest) on Kumu.
+Visit the latest stable version of the reliability model on Kumu: [https://kumu.io/reliability-model/latest](https://kumu.io/reliability-model/latest)
 
-TODO: add image
+![Screenshot of SRM graph visualization on Kumu](screenshots/2021-02-28--kuku-software-reliability-model.png)
+
+See all versions of the model: [https://kumu.io/reliability-model](https://kumu.io/reliability-model)
 
 # Types of factors in the model
 
