@@ -1,0 +1,55 @@
+Label,Type,Tags,Description
+Playbooks,technique,tool,
+Testing,activity,design|internal|external|tool,"More sources:
+
+https://github.com/ConfluxDigital/software-delivery-assessment/blob/master/testability.md"
+Integration,activity,design|tool,
+Microservices,technique,design|tool,
+Reliability,quality,,
+Logging,activity,internal|tool,Modern logging should be well-defined and based on application events. See eventbasedlogging.net for more details.
+Capacity,metric,design|internal,
+On-call practice,practice,design|tool,
+Upstream Performance,metric,external,
+End To End,activity,design|internal,
+Chaos Engineering,technique,design|internal|tool,
+Failure Intensity,metric,,How badly does the broken thing impact users?
+Test Coverage,metric,design|internal|tool,
+Post-recovery remediation,metric,design|internal,
+Troubleshoot,activity,design|internal,
+Culture,,design|internal,
+Cost to remediate,metric,design|internal,
+Acknowledge,activity,internal,
+Caching,technique,internal|tool,
+Customers Impacted,metric,external,How many users are impacted when by the thing that is broken.
+Perceived Performance,metric,external,
+Dependency,,,
+Performance,quality,4-key-metrics|MTTR|internal,
+Change,,,
+Canary Deploy,technique,design|internal,
+Circuit Breaker Pattern,technique,design|tool,
+External Force,,,
+Local Performance,metric,internal,
+Alternatives for completing task,activity,external,
+Sharding,technique,design|internal|tool,
+Attack,input,external,
+Isolation of impact,technique,design|tool,
+Redundancy,technique,4-key-metrics|change failure rate|internal,
+Observability,quality,design|tool,
+Release Management,activity,4-key-metrics|MTTR|internal,
+Duration,metric,4-key-metrics|MTTR|internal,How long does something stay broken. Commonly measures as mean time to recover - MTTR
+Availability,metric,internal,
+Change Frequency,metric,design|internal,
+Failure Frequency,metric,4-key-metrics|change failure rate|internal,"How often does something break. Commonly measured by MTBF - Mean Time Between Failure. 
+Important to note that this looks at simply did something fail, not whether it was a customer-impacting failure. That is considered by the customer impact and intensity."
+Resolve,activity,4-key-metrics|MTTR|internal,
+Natural Force,activity,external,
+As designed defect,,design|external|internal,
+Unit Tests,practice,design|internal|tool,
+Time-series Metrics,metric,design|internal|tool,
+User Experience Testing,activity,design|internal|external|tool,
+Tracing,metric,design|internal|tool,
+Downstream Performance,metric,external,
+Hardware failure,input,external,
+Customer experience,output,design|internal,
+Identify,activity,internal,
+Perception of Reliability,output,design|internal,
