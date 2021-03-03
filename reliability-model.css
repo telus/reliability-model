@@ -1,0 +1,6 @@
+@settings {
+  template: custom;
+  layout: static;
+  theme: light;
+  element-color: categorize("Element Type", set2);
+}
