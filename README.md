@@ -73,6 +73,10 @@ Tags are used to explore different dimensions of the model:
 * Reliability and SRE - measures from the Reliability dimension of MSDA
 * Runtime technique - techniques for reliability focused on runtime aspects
 * Team Health - measures from the Team Health dimension of MSDA
+* Team Topologies - measures derived from the book [Team Topologies](https://teamtopologies.com/)
+* Team API - measures relating to the 'Team API' concept in Team Topologies
+* Team Autonomy - measures relating to team autonomy as discussed in Team Topologies
+* Team Cognitive Load - measures relating to the 'Team Cognitive Load' concept in Team Topologies
 * Testability - measures from the Testability dimension of MSDA
 * UX - measures relating to end-user experience
 * Version Control Hygiene - measures relating to good version control practices
