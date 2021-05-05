@@ -4,3 +4,31 @@
   theme: light;
   element-color: categorize("Element Type", set2);
 }
+
+@settings {
+  template: custom;
+}
+
+team-measure {
+  icon: users;
+  icon-color: #000;
+  color: #4F4;
+}
+
+context {
+  icon: map-marked;
+  icon-color: #000;
+  color: #F44;
+}
+
+genre {
+  icon: sitemap;
+  icon-color: #000;
+  color: #44F;
+}
+
+reliability {
+  icon: cog;
+  icon-color: #000;
+  color: #FC4;
+}
