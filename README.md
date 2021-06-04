@@ -1,5 +1,7 @@
 # Software Reliability Model - reliability-model
 
+<img src="images/2021-06-04--reliability-model-icon.png" width="100px"/>
+
 This Software Reliability Model (SRM) provides a flexible and explainable model of software reliability in terms of technical foundations, socio-technical constraints, and human factors. It is designed to help explore and explain software reliability to people of various roles who are involved in building and running software systems (especially when on-boarding new team members), and track progress in improving reliability. The SRM is also designed to make it easy to generate and update hierarchical metrics for product health scores across multiple teams.
 
 The software reliability model is designed to be relevant to several different kinds of software systems:
