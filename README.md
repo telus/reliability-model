@@ -86,6 +86,23 @@ Tags are used to explore different dimensions of the model:
 1. Names of Kumu element types, connection types, and tags are ["selector friendly" for the Kumu advanced editor](https://docs.kumu.io/guides/import.html#try-to-be-selector-friendly) - a single word.
 2. The graph layout visualization is controlled by the settings in the `*.css` view files (imported into the [Advanced Editor](https://docs.kumu.io/overview/view-editors.html#advanced-editor) settings in Kumu).
 
+# Books that influenced the model
+
+These books influenced the reliability model significantly:
+
+* [_Accelerate_](https://wordery.com/accelerate-nicole-forsgren-phd-9781942788331) by Nicole Forsgren, Jez Humble, and Gene Kim
+* [_Agile Testing_](https://wordery.com/agile-testing-lisa-crispin-9780321534460) by Lisa Crispin and Janet Gregory
+* [_Continuous Delivery_](http://continuousdelivery.com/) by Jez Humble and Dave Farley
+* [_Growing Object-Oriented Software_](https://wordery.com/growing-object-oriented-software-guided-by-tests-steve-freeman-9780321503626) by Steve Freeman and Nat Price
+* [_Principles of Product Development Flow_](https://wordery.com/the-principles-of-product-development-flow-donald-g-reinertsen-9781935401001) by Don Reinertsen
+* [_Seeking SRE_](https://www.oreilly.com/library/view/seeking-sre/9781491978856/) edited by David N. Blank-Edelman
+* [_Site Reliability Engineering_](https://sre.google/sre-book/table-of-contents/) by Betsy Beyer, Chris Jones, Jennifer Petoff, & Niall Murphy
+* [_Team Guide to Metrics for Business Decisions_](http://bizmetricsbook.com/) by Mattia Battiston and Chris Young
+* [_Team Guide to Software Operability_](http://operabilitybook.com/) by Matthew Skelton, Alex Moore, & Rob Thatcher
+* [_Team Guide to Software Testability_](http://testabilitybook.com/) by Ash Winter and Rob Meaney and the companion website [TestabilityQuestions.com](http://TestabilityQuestions.com/)
+* [_The Site Reliability Workbook_](https://sre.google/workbook/table-of-contents/) edited by Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, & Stephen Thorne
+* [_Working Effectively with Legacy Code_](https://www.amazon.co.uk/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) by Michael Feathers
+
 # Possible improvements
 
 * Use CI to test Pull Requests against Kumu import:
