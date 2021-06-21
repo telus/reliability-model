@@ -102,7 +102,8 @@ Tags are used to explore different dimensions of the model:
 # Notes on the model and visualization
 
 1. Names of Kumu element types, connection types, and tags are ["selector friendly" for the Kumu advanced editor](https://docs.kumu.io/guides/import.html#try-to-be-selector-friendly) - a single word.
-2. The graph layout visualization is controlled by the settings in the `*.css` view files (imported into the [Advanced Editor](https://docs.kumu.io/overview/view-editors.html#advanced-editor) settings in Kumu).
+1. The graph layout visualization is controlled by the settings in the `*.css` view files (imported into the [Advanced Editor](https://docs.kumu.io/overview/view-editors.html#advanced-editor) settings in Kumu).
+1. The CSV data import in Kumu needs some attention to detail. Be sure to follow the [CSV import details](https://docs.kumu.io/guides/import.html).
 
 # Books that influenced the model
 
