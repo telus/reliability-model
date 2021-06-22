@@ -1,0 +1,33 @@
+@settings {
+  template: custom;
+  element-size: 16;
+  connection-curvature: 0.15;
+}
+
+/* elements: team-measure */
+team-measure {
+  icon: users;
+  icon-color: #000;
+  color: #4F4;
+}
+
+/* elements: context */
+context {
+  icon: map-marked;
+  icon-color: #000;
+  color: #F44;
+}
+
+/* elements: genre */
+genre {
+  icon: sitemap;
+  icon-color: #000;
+  color: #44F;
+}
+
+/* elements: reliability */
+reliability {
+  icon: cog;
+  icon-color: #000;
+  color: #FC4;
+}
